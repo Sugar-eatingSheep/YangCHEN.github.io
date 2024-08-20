@@ -24,7 +24,7 @@ Research Interests
 
 About Myself 🥰
 ------
-Slogan: Stay happy, stay foolish, stay hardworking. 
-Software: SPSS, MATLAB, ArcGIS, LaTeX, Visio, Origin, AutoCAD.
-Computer Skills: Python, familiar with basic machine learning algorithms, and basic skills of data processing.
-Language: English (IELTS: 6.5/6, CET-4: 564, CET-6: 519), Chinese (native speaker).
+1. Slogan: Stay happy, stay foolish, stay hardworking. 
+1. Software: SPSS, MATLAB, ArcGIS, LaTeX, Visio, Origin, AutoCAD.
+1. Computer Skills: Python, familiar with basic machine learning algorithms, and basic skills of data processing.
+1. Language: English (IELTS: 6.5/6, CET-4: 564, CET-6: 519), Chinese (native speaker).
