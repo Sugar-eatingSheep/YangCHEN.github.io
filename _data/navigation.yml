@@ -10,7 +10,8 @@ main:
 
     
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /assets/Yang CHEN--CV.pdf
 
 # - title: "Teaching"
 #   url: /teaching/    
