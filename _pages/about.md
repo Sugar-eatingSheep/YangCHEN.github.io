@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello professor, I'm Yang Chen ~ 🤞"
+title: "Hello professor, I'm Yang Chen 🤞"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 Yang Chen is currently pursuing an M.Sc. degree in Civil Engineering at the University of Hong Kong. Before that, he received his dual bachelor degrees from Chang'an University (211 Project), China, and University College Dublin (2025 QS World University Ranking: 126), Ireland. At these two institutions, he earned a B.Eng. degree in Transportation and a B.Sc. degree (**First Class Honours**) in Transport, City Planning & Environmental Policy, respectively.
+
+During his undergraduate studies, Yang Chen had accumulated extensive research experience. After the pandemic (nearly 2 years of pitiful dormitory life😥), starting from the summer between his sophomore and junior years, he led a Provincial College Student Innovation and Entrepreneurship Training Program as the project leader and participated as the second leader in a National College Student Innovation and Entrepreneurship Training Program. Both projects explored safety issues encountered by human drivers from the perspectives of human factors and traffic safety, focusing on issues such as pedal misapplication and visual blind spots.
+
+Since then, Yang Chen developed a research interest in traffic safety, human factors, and intelligent transportation. Throughout the subsequent two years of his undergraduate studies, he conducted much research at the School of Automobile, Chang'an University, and the Key Laboratory of Automobile Transportation Safety Technology, Ministry of Transport. He served as a part-time research assistant, leading projects such as fatigue monitoring in L2-level human-machine co-driving modes, interactions between vulnerable traffic participants and autonomous vehicles in VR environments, and evaluation of motion sickness characteristics in electric vehicle passengers (with the latter two projects still ongoing).
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
