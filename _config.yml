@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yang's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yang Chen"
+description              : &description "Transportation Engineering, Traffic Safety"
+url                      : https://sugar-eatingsheep.github.io/YangCHEN.github.io/ # the base hostname & protocol for your site e.g. "https://sugar-eatingsheep.github.io/YangCHEN.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
