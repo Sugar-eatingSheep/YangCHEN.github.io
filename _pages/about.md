@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello professor, I'm Yang Chen 🤞"
+title: "Hello professor, Welcome to Yang Chen's homepage! 🤞"
 author_profile: true
 redirect_from: 
   - /about/
