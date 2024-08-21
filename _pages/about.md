@@ -51,9 +51,11 @@ Publications
 1. **Chen, Y.**, Sun, W., & Wu, F.(Supervisor). (2024) [Pedestrian Perception of Vehicle Movement Information in Virtual Reality: A Subjective and Objective Analysis](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/TRBAM-25-01553.pdf). Submitted to 104th Annual Meeting of Transportation Research Board (TRB 2025). **Under review**
 <br /> Description: This article is a derivative work of the Journal Paper *A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments*.
 
-1. **Chen, Y.**,. (2023) [Research on Short-term Passenger Flow Prediction Method of Urban Railway Based on Machine Learning](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/conference 2. Final version.pdf). 5th International Conference on Computing and Data Science (CONF-CDS 2023). **Accepted**.
+1. **Chen, Y.**. (2023) [Research on Short-term Passenger Flow Prediction Method of Urban Railway Based on Machine Learning](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/conference 2. Final version.pdf). 5th International Conference on Computing and Data Science (CONF-CDS 2023). **Accepted**.
 
 1. **Chen, Y.**, Luo, Y., & Zhang, H. (2023). [Modification and Application of ALPI Model Based on Image Gray Value Analysis and K-Means](https://ieeexplore.ieee.org/document/10257787). 2023 IEEE International Conference on Image Processing and Computer Applications (ICIPCA) (pp. 508-512). IEEE. https://doi.org/10.1109/ICIPCA59209.2023.10257787. **Accepted**.
 
 1. Li, E., Ding, D.(Supervisor), Song, B., **Chen, Y.**, et al. (2024) Bayesian Loss-Based Crowdedness Estimation in Subway Stations. 2024 World Transport Convention (WTC). **Accepted**.
 
+👨🏻‍🎓 **Thesis**
+(Undergraduate Thesis) **Chen, Y.**, 2024, Characterization of Non-motorized Vehicles Crossing Traffic Flows at Urban Intersections. **Won the Outstanding Undergraduate Thesis Award (rank 1st among 109 students in the Program) ✌🏻**, Chang’an University. Supervisor: Associate Prof. Wang Yongjie, Chang'an University.
