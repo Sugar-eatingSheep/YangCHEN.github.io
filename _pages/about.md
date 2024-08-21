@@ -62,7 +62,7 @@ Publications
 <br /> 
 (Undergraduate Thesis) **Chen, Y.**, 2024, [Characterization of Non-motorized Vehicles Crossing Traffic Flows at Urban Intersections](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/本科毕设最终报告.pdf). **Won the Outstanding Undergraduate Thesis Award (rank 1st among 109 students in the Program) ✌🏻**, Chang’an University. Supervisor: Associate Prof. Wang Yongjie, Chang'an University.
 
-💼 **Patent & Software Copyright**
+💼 **Selected Patents**
 
 1. National Invention Patent "A Method and System for Identifying Misoperation Behavior of Automobile Driver's Pedal 一种汽车驾驶员踏板误操作行为识别方法和系统", China. Inventors: **Yang Chen**, Chang Wang (Supervisor), Yuwen Luo, Yifan Cao, Lei Ma (Supervisor). **Under review**.
 
@@ -72,3 +72,4 @@ Publications
 
 1. National Utility Model Patent "Automobile pedal force detection equipment 一种汽车踏板力检测设备", China. Inventors: Lei Ma (Supervisor), Yuwen Luo, **Yang Chen**. **Grant Number: [ZL 202320121810.7](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/一种汽车踏板力检测设备-证书(1).pdf)**.
 
+1. National Utility Model Patent "A dust-reducing and purifying underground space device 一种降尘净化地下空间装置", China. Inventors: Enkai Li, Bingkun Song, Boyao Peng, Lexing Zhang, Wenjing Ye, Wanting Fan, Yixue Dai, **Yang Chen**, Jiupeng Zhang (Supervisor). **Grant Number: [ZL 202322572917.6](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/一种降尘净化地下空间装置PS23244-2023225729176长安大学-实用新型专利证书.pdf)**.
