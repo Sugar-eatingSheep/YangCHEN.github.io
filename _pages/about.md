@@ -94,6 +94,10 @@ Publications
 1. Provincial 1st Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling in 2022
 1. Provincial 1st Prize, 19th National College Students Transportation Technology Competition Shaanxi Division (5/5) in 2024
 1. Provincial 2nd Prize, 19th National College Students Transportation Technology Competition Shaanxi Division (5/5) in 2024            1. Provincial 2nd Prize, 9th China International "Internet+" College Students Innovation and Entrepreneurship Competition (4/8) in 2023
-1. Provincial 2nd Prize, 11th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition in 2022 (2/5)
+1. Provincial 2nd Prize, 11th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition (2/5) in 2022
 1. Provincial 3rd Prize, 18th National College Students Transportation Technology Competition Shaanxi Division (1/5) in 2023
-1. Provincial 3rd Prize, 14th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition in 2023 (1/5)
+1. Provincial 3rd Prize, 14th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition (1/5) in 2023
+
+🤗 Thank you for reading this far!!!
+======
+**More information about Yang Chen can be found in his CV.**
