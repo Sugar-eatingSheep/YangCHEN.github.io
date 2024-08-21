@@ -73,3 +73,20 @@ Publications
 1. National Utility Model Patent "Automobile pedal force detection equipment 一种汽车踏板力检测设备", China. Inventors: Lei Ma (Supervisor), Yuwen Luo, **Yang Chen**. **Grant Number: [ZL 202320121810.7](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/一种汽车踏板力检测设备-证书(1).pdf)**.
 
 1. National Utility Model Patent "A dust-reducing and purifying underground space device 一种降尘净化地下空间装置", China. Inventors: Enkai Li, Bingkun Song, Boyao Peng, Lexing Zhang, Wenjing Ye, Wanting Fan, Yixue Dai, **Yang Chen**, Jiupeng Zhang (Supervisor). **Grant Number: [ZL 202322572917.6](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/一种降尘净化地下空间装置PS23244-2023225729176长安大学-实用新型专利证书.pdf)**.
+
+🏅 Honors and Awards
+======
+1. Outstanding Undergraduate Graduate, Chang’an University
+1. Outstanding Undergraduate Thesis Award (Top 0.9%), Chang’an University
+1. 1st Class Academic Merit Scholarship (2022-2023), 2nd Class Academic Merit Scholarship (2021-2022), 1st Class Academic Merit Scholarship (2020-2021)
+1. 2022-2023 University Contribution Scholarship
+1. 2022-2023 College "Double Innovation Star" Scholarship - Innovation & Entrepreneurship (5%)
+1. Course Excellence Scholarship
+1. Provincial "Outstanding Social Practice Team" Award in 2022
+1. University "Outstanding Social Practice Individual" Award in 2022
+1. National 2nd Prize, 19th National College Students Transportation Technology Competition (5/5) in 2024
+1. National 2nd Prize, 18th National College Students Transportation Technology Competition (1/5) in 2023
+1. Finalist Award, 2023 American Mathematical Contest in Modeling (MCM/ICM)
+1. International Bronze Award, 8th China International "Internet+" College Students Innovation and Entrepreneurship Competition (2/4) in 2023
+1. International Bronze Award, 9th China International "Internet+" College Students Innovation and Entrepreneurship Competition (1/3) in 2024
+1. Outstanding Award, 2023 "Huashu Cup" International Mathematical Contest in Modeling
