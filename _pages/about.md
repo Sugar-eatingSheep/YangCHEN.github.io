@@ -28,3 +28,14 @@ About Myself 🥰
 1. Software: SPSS, MATLAB, ArcGIS, LaTeX, Visio, Origin, AutoCAD.
 1. Computer Skills: Python, familiar with basic machine learning algorithms, and basic skills of data processing.
 1. Language: English (IELTS: 6.5/6, CET-4: 564, CET-6: 519), Chinese (native speaker).
+
+Publications
+======
+👋 Journals
+------
+1. Wu F W (Supervisor), Sun W C, **Chen Y**, et al. (2024) A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments 虚实环境下行人对车辆运动信息感知特性对比研究. Submitted to Journal of Transportation Systems Engineering and Information Technology 交通运输系统工程与信息 (EI, IF=2.27). Under review.
+this paper conducted the experimental tasks of vehicle speed estimation and vehicle arrival time estimation in both environments, and a total of 37 subjects' experimental data were collected. By comparing and analyzing the performance of participants' perception of vehicle motion information with the bias values of estimated speed and arrival time as the analytical indexes, this paper discusses the influence of the vehicle speed, individual characteristics and other factors on the experimental results. The results demonstrate that compared to the real-world experiment, pedestrians tend to underestimate vehicle speed in VR environments, although their estimation of arrival time remains consistent; vehicle speed has a consistent trend in affecting pedestrians' perceptual bias in both environments; and different individual characteristics do not contribute to the differences in pedestrians' perceptions between the two environments. These research findings can provide theoretical references for studying interactions between pedestrians and vehicles in VR environments.
+1. Autonomous vehicles, AV
+1. Traffic safety
+1. Human factors, driver behaviors, driving simulator
+1. VR, interaction between traffic participants and AVs
