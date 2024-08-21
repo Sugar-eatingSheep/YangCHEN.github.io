@@ -84,9 +84,16 @@ Publications
 1. Course Excellence Scholarship
 1. Provincial "Outstanding Social Practice Team" Award in 2022
 1. University "Outstanding Social Practice Individual" Award in 2022
-1. National 2nd Prize, 19th National College Students Transportation Technology Competition (5/5) in 2024
+1. National 2nd Prize, 19th National College Students Transportation Technology Competition *Top competition for undergraduates majored in transportation in mainland China* (5/5) in 2024
 1. National 2nd Prize, 18th National College Students Transportation Technology Competition (1/5) in 2023
 1. Finalist Award, 2023 American Mathematical Contest in Modeling (MCM/ICM)
 1. International Bronze Award, 8th China International "Internet+" College Students Innovation and Entrepreneurship Competition (2/4) in 2023
 1. International Bronze Award, 9th China International "Internet+" College Students Innovation and Entrepreneurship Competition (1/3) in 2024
 1. Outstanding Award, 2023 "Huashu Cup" International Mathematical Contest in Modeling
+1. Provincial Outstanding Award, 18th "Challenge Cup" National College Students Extracurricular Academic Science and Technology Works Competition (3/9) in 2023
+1. Provincial 1st Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling in 2022
+1. Provincial 1st Prize, 19th National College Students Transportation Technology Competition Shaanxi Division (5/5) in 2024
+1. Provincial 2nd Prize, 19th National College Students Transportation Technology Competition Shaanxi Division (5/5) in 2024            1. Provincial 2nd Prize, 9th China International "Internet+" College Students Innovation and Entrepreneurship Competition (4/8) in 2023
+1. Provincial 2nd Prize, 11th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition in 2022 (2/5)
+1. Provincial 3rd Prize, 18th National College Students Transportation Technology Competition Shaanxi Division (1/5) in 2023
+1. Provincial 3rd Prize, 14th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition in 2023 (1/5)
