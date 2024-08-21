@@ -29,6 +29,7 @@ About Myself 🥰
 1. Computer Skills: Python, familiar with basic machine learning algorithms, and basic skills of data processing.
 1. Language: English (IELTS: 6.5/6, CET-4: 564, CET-6: 519), Chinese (native speaker).
 
+
 Publications
 ======
 👋 **Journals**
