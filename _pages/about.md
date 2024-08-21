@@ -59,4 +59,4 @@ Publications
 
 👨🏻‍🎓 **Thesis**
 <br /> 
-(Undergraduate Thesis) **Chen, Y.**, 2024, Characterization of Non-motorized Vehicles Crossing Traffic Flows at Urban Intersections. **Won the Outstanding Undergraduate Thesis Award (rank 1st among 109 students in the Program) ✌🏻**, Chang’an University. Supervisor: Associate Prof. Wang Yongjie, Chang'an University.
+(Undergraduate Thesis) **Chen, Y.**, 2024, [Characterization of Non-motorized Vehicles Crossing Traffic Flows at Urban Intersections](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/本科毕设最终报告.pdf). **Won the Outstanding Undergraduate Thesis Award (rank 1st among 109 students in the Program) ✌🏻**, Chang’an University. Supervisor: Associate Prof. Wang Yongjie, Chang'an University.
