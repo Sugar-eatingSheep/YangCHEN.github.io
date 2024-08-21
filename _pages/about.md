@@ -58,4 +58,5 @@ Publications
 1. Li, E., Ding, D.(Supervisor), Song, B., **Chen, Y.**, et al. (2024) Bayesian Loss-Based Crowdedness Estimation in Subway Stations. 2024 World Transport Convention (WTC). **Accepted**.
 
 👨🏻‍🎓 **Thesis**
+<br /> 
 (Undergraduate Thesis) **Chen, Y.**, 2024, Characterization of Non-motorized Vehicles Crossing Traffic Flows at Urban Intersections. **Won the Outstanding Undergraduate Thesis Award (rank 1st among 109 students in the Program) ✌🏻**, Chang’an University. Supervisor: Associate Prof. Wang Yongjie, Chang'an University.
