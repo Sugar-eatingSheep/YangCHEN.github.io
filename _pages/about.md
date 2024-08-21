@@ -100,4 +100,4 @@ Publications
 
 🤗 Thank you for reading this far!!!
 ======
-**More information about Yang Chen can be found in his CV.**
+**More information about Yang Chen can be found in his [CV](/files/Yang CHEN--CV.pdf).**
