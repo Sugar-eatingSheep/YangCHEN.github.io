@@ -70,5 +70,5 @@ Publications
 
 1. National Invention Patent "A frozen soil retaining wall and construction method 一种冻土挡土墙及其施工方法", China. Inventors: Bingkun Song, Enkai Li, Yixie Dai, **Yang Chen**, Xuesong Mao, Zhongjie Hou, Yuwen Luo. **Under review**.
 
-1. National Utility Model Patent "[Automobile pedal force detection equipment 一种汽车踏板力检测设备](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/一种汽车踏板力检测设备-证书(1).pdf)", China. Inventors: Lei Ma (Supervisor), Yuwen Luo, **Yang Chen**. **Grant Number: ZL 202320121810.7**.
+1. National Utility Model Patent "Automobile pedal force detection equipment 一种汽车踏板力检测设备", China. Inventors: Lei Ma (Supervisor), Yuwen Luo, **Yang Chen**. **Grant Number: [ZL 202320121810.7](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/一种汽车踏板力检测设备-证书(1).pdf)**.
 
