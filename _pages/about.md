@@ -61,3 +61,13 @@ Publications
 <br /> 
 <br /> 
 (Undergraduate Thesis) **Chen, Y.**, 2024, [Characterization of Non-motorized Vehicles Crossing Traffic Flows at Urban Intersections](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/本科毕设最终报告.pdf). **Won the Outstanding Undergraduate Thesis Award (rank 1st among 109 students in the Program) ✌🏻**, Chang’an University. Supervisor: Associate Prof. Wang Yongjie, Chang'an University.
+
+💼 **Patent & Software Copyright**
+
+1. National Invention Patent "A Method and System for Identifying Misoperation Behavior of Automobile Driver's Pedal 一种汽车驾驶员踏板误操作行为识别方法和系统", China. Inventors: **Yang Chen**, Chang Wang (Supervisor), Yuwen Luo, Yifan Cao, Lei Ma (Supervisor). **Under review**.
+
+1. National Invention Patent "Automobile intelligent blind area monitoring and early warning system based on driver attention assessment 一种基于驾驶人注意力评估的汽车智能盲区监测及预警系统", China. Inventors: Shuo Zhang (Supervisor), **Yang Chen**, Yifan Cao, Yuwen Luo. **Under review**.
+
+1. National Invention Patent "A frozen soil retaining wall and construction method 一种冻土挡土墙及其施工方法", China. Inventors: Bingkun Song, Enkai Li, Yixie Dai, **Yang Chen**, Xuesong Mao, Zhongjie Hou, Yuwen Luo. **Under review**.
+
+
