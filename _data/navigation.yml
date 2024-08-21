@@ -6,13 +6,12 @@
 
 main:
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "CV"
     #url: /cv/
     url: /assets/Yang CHEN--CV.pdf
 
+# - title: "Publications"
+#   url: /publications/
     
 # - title: "Teaching"
 #   url: /teaching/    
