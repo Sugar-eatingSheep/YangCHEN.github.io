@@ -48,7 +48,7 @@ Publications
 
 🀄 **Conferences**
 
-1. **Chen, Y.**, Sun, W., & Wu, F.(Supervisor). (2024) [Pedestrian Perception of Vehicle Movement Information in Virtual Reality: A Subjective and Objective Analysis](/files/TRBAM-25-01553.pdf). Submitted to 104th Annual Meeting of Transportation Research Board (TRB 2025). **Under review**
+1. **Chen, Y.**, Sun, W., & Wu, F.(Supervisor). (2024) [Pedestrian Perception of Vehicle Movement Information in Virtual Reality: A Subjective and Objective Analysis](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/TRBAM-25-01553.pdf). Submitted to 104th Annual Meeting of Transportation Research Board (TRB 2025). **Under review**
 <br /> Description: This article is a derivative work of the Journal Paper *A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments*.
 
 1. 
