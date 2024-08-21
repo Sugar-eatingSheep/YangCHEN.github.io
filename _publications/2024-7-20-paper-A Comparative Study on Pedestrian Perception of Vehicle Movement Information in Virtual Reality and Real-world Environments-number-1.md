@@ -1,0 +1,14 @@
+---
+title: "A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-7-20-paper-A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments-number-1
+excerpt: 'In the interaction process between pedestrians and vehicles, accurate perception of vehicle motion state by pedestrians is a prerequisite for making proper behavioral decisions. With the development of intelligent transportation technology, Virtual reality (VR) technology is considered to be a promising research tool for studying pedestrian-vehicle interaction behaviors due to its high immersion and safety. However, considering numerous differences between VR environments and real-world environments, it is uncertain whether the pedestrians' perceptual properties of vehicle motion information are consistent in two environments. Therefore, this paper conducted the experimental tasks of vehicle speed estimation and vehicle arrival time estimation in both environments, and a total of 37 subjects' experimental data were collected. By comparing and analyzing the performance of participants' perception of vehicle motion information with the bias values of estimated speed and arrival time as the analytical indexes, this paper discusses the influence of the vehicle speed, individual characteristics and other factors on the experimental results. The results demonstrate that compared to the real-world experiment, pedestrians tend to underestimate vehicle speed in VR environments, although their estimation of arrival time remains consistent; vehicle speed has a consistent trend in affecting pedestrians' perceptual bias in both environments; and different individual characteristics do not contribute to the differences in pedestrians' perceptions between the two environments. These research findings can provide theoretical references for studying interactions between pedestrians and vehicles in VR environments.'
+date: 2024-7-20
+venue: 'Journal 1'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
