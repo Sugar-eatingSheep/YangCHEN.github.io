@@ -43,5 +43,5 @@ Publications
 <br /> Description: This paper is supposed to be an extended version of my undergraduate thesis. We will conduct our research based on the current relatively novel SIND dataset and introduce some deep learning and machine learning models to build our own modeling framework. I believe it is fundamental research to study non-motorized operating behavior, and subsequently, I will continue to expand to human factors, human-vehicle interaction, and other aspects to deepen the value of this research.
 
 1. Huang, R.(Supervisor), **Chen, Y.**, Song, B., et al. (2024) Experimental Study on Single-file Passenger Flow Movement Characteristics in High-speed Train Cabin Areas. **In preparation**.
-<br /> Description: This paper is about pedestrian dynamics, an interesting topic for learning pedestrians' evacuation behaviors.
+<br /> Description: This paper is about pedestrians' evacuation behaviors, an interesting topic for learning pedestrian dynamics.
 
