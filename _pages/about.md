@@ -100,4 +100,4 @@ Publications
 
 🤗 Thank you for reading this far!!!
 ======
-**More information about Yang Chen can be found in his [CV](/files/Yang CHEN--CV.pdf).**
+**More information about Yang Chen can be found in his [CV](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/Yang CHEN--CV.pdf).**
