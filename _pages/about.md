@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yang Chen is currently pursuing an M.Sc. degree in Civil Engineering at the University of Hong Kong. Before that, he received his dual bachelor degrees from Chang'an University (211 Project), Xi'an, China, and University College Dublin (2025 QS World University Ranking: 126), Ireland. At these two institutions, he earned a B.Eng. degree in Transportation and a B.Sc. degree (**First Class Honours**) in Transport, City Planning & Environmental Policy, respectively.
+Yang Chen is currently pursuing an M.Sc. degree in Civil Engineering at the University of Hong Kong. Before that, he received his dual bachelor degrees from [Chang'an University](https://en.chd.edu.cn/) (211 Project), Xi'an, China, and [University College Dublin](https://www.ucd.ie/) (2025 QS World University Ranking: 126), Ireland. At these two institutions, he earned a B.Eng. degree in Transportation and a B.Sc. degree (**First Class Honours**) in Transport, City Planning & Environmental Policy, respectively.
 
 During his undergraduate studies, Yang Chen had accumulated extensive research experience. After the pandemic (nearly 2 years of pitiful dormitory life 😥), starting from the summer between his sophomore and junior years, he led a Provincial College Student Innovation and Entrepreneurship Training Program as the project leader and participated as the second leader in a National College Student Innovation and Entrepreneurship Training Program. Both projects explored safety issues encountered by human drivers from the perspectives of human factors and traffic safety, focusing on issues such as pedal misapplication and visual blind spots.
 
@@ -100,4 +100,4 @@ Publications
 
 🤗 Thank you for reading this far!
 ======
-**More information about Yang Chen can be found in his [CV](https://sugar-eatingsheep.github.io/YangCHEN.github.io//files/Yang%20CHEN--CV.pdf).**
+**More information about Yang Chen can be found in his [CV](https://github.com/Sugar-eatingSheep/YangCHEN.github.io/files/Yang CHEN--CV.pdf).**
