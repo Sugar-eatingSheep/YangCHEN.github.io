@@ -21,6 +21,7 @@ Research Interests
 1. Traffic safety
 1. Human factors, driver behaviors, driving simulator
 1. VR, interaction between traffic participants and AVs
+1. Traffic and pedestrian flows
 
 About Myself 🥰
 ------
@@ -100,4 +101,4 @@ Publications
 
 🤗 Thank you for reading this far!
 ======
-**More information about Yang Chen can be found in his [CV](https://github.com/Sugar-eatingSheep/YangCHEN.github.io/files/Yang CHEN--CV.pdf).**
+**More information about Yang Chen can be found in his [CV](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/Yang CHEN--CV.pdf).**
