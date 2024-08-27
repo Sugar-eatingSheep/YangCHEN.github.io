@@ -98,6 +98,6 @@ Publications
 1. Provincial 3rd Prize, 18th National College Students Transportation Technology Competition Shaanxi Division (1/5) in 2023
 1. Provincial 3rd Prize, 14th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition (1/5) in 2023
 
-🤗 Thank you for reading this far!!!
+🤗 Thank you for reading this far!
 ======
 **More information about Yang Chen can be found in his [CV](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/Yang CHEN--CV.pdf).**
