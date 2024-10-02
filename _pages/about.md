@@ -35,7 +35,7 @@ Publications
 ======
 👋 **Journals**
 
-1. [Wu, F.](https://www.researchgate.net/profile/Fuwei-Wu)(Supervisor), Sun, W., **Chen, Y.**, et al. (2024) A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments 虚拟环境下行人对车辆运动信息感知特性研究. Submitted to *Chinese Journal of Automotive Engineering 汽车工程* (EI, IF=1.79). **Under review**.
+1. [Wu, F.](https://www.researchgate.net/profile/Fuwei-Wu)(Supervisor), Sun, W., Ma, Y., **Chen, Y.**, et al. (2024) Study on Pedestrians’ Perception Characteristics of Vehicle Motion Information in a Virtual Environment 虚拟环境下行人对车辆运动信息感知特性研究. Submitted to *Chinese Journal of Automotive Engineering 汽车工程* (EI, IF=1.79). **Under review**.
 * Description: This paper examines vehicle speed and arrival time estimation in real and VR environments. It finds that pedestrians generally underestimate vehicle speed in VR but their arrival time estimates remain consistent. Vehicle speed consistently affects perceptual bias across both settings, while individual characteristics do not significantly alter perception differences. These insights offer valuable theoretical references for pedestrian-vehicle interactions in VR environments.
 
 2. **Chen, Y.**, [Wang, C.](https://orcid.org/0000-0003-3531-1215)(Supervisor), [Fu, R.](https://www.researchgate.net/profile/Rui-Fu-16)(Supervisor), et al. (2024) Experimental Studies of Passenger Motion Sickness for Electric Bus Dynamical Characteristics under Different Operating Conditions. **In preparation**.
@@ -46,6 +46,8 @@ Publications
 
 4. [Huang, R.](https://www.researchgate.net/profile/Rong-Huang-65)(Supervisor), **Chen, Y.**, Song, B., et al. (2024) Experimental Study on Single-file Passenger Flow Movement Characteristics in High-speed Train Cabin Areas. **In preparation**.
 * Description: This paper is about pedestrians' evacuation behaviors, an interesting topic for learning pedestrian dynamics.
+
+
 
 🀄 **Conferences**
 
