@@ -35,7 +35,7 @@ Publications
 ======
 👋 **Journals**
 
-1. [Wu, F.](https://www.researchgate.net/profile/Fuwei-Wu)(Supervisor), Sun, W., **Chen, Y.**, et al. (2024) A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments 虚实环境下行人对车辆运动信息感知特性对比研究. Submitted to *Journal of Transportation Systems Engineering and Information Technology 交通运输系统工程与信息* (EI, IF=2.27). **Under review**.
+1. [Wu, F.](https://www.researchgate.net/profile/Fuwei-Wu)(Supervisor), Sun, W., **Chen, Y.**, et al. (2024) A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments 虚拟环境下行人对车辆运动信息感知特性研究. Submitted to *Chinese Journal of Automotive Engineering 汽车工程* (EI, IF=1.79). **Under review**.
 * Description: This paper examines vehicle speed and arrival time estimation in real and VR environments. It finds that pedestrians generally underestimate vehicle speed in VR but their arrival time estimates remain consistent. Vehicle speed consistently affects perceptual bias across both settings, while individual characteristics do not significantly alter perception differences. These insights offer valuable theoretical references for pedestrian-vehicle interactions in VR environments.
 
 1. **Chen, Y.**, [Wang, C.](https://orcid.org/0000-0003-3531-1215)(Supervisor), [Fu, R.](https://www.researchgate.net/profile/Rui-Fu-16)(Supervisor), et al. (2024) Experimental Studies of Passenger Motion Sickness for Electric Bus Dynamical Characteristics under Different Operating Conditions. **In preparation**.
