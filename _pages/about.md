@@ -47,12 +47,12 @@ Publications
 4. [Huang, R.](https://www.researchgate.net/profile/Rong-Huang-65)(Supervisor), **Chen, Y.**, Song, B., et al. (2024) Experimental Study on Single-file Passenger Flow Movement Characteristics in High-speed Train Cabin Areas. **In preparation**.
 * Description: This paper is about pedestrians' evacuation behaviors, an interesting topic for learning pedestrian dynamics.
 
+5. Li, E., Ding D*, Zhang L X, Chen Y, et al. (2024) A New Framework for Subway Passenger Flow Detection Based on Improved Feature Extraction and Fusion. Submitted to Journal of Intelligent Transportation Infrastructure. Under review.
 
 
 🀄 **Conferences**
 
 1. **Chen, Y.**, Sun, W., & [Wu, F.](https://www.researchgate.net/profile/Fuwei-Wu)(Supervisor). (2024) [Pedestrian Perception of Vehicle Movement Information in Virtual Reality: A Subjective and Objective Analysis](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/TRBAM-25-01553.pdf). Submitted to 104th Annual Meeting of Transportation Research Board (TRB 2025). **Accepted**.
-* Description: This article is a derivative work of the Journal Paper *A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments*.
 
 2. **Chen, Y.**. (2023) [Research on Short-term Passenger Flow Prediction Method of Urban Railway Based on Machine Learning](https://sugar-eatingsheep.github.io/YangCHEN.github.io/files/conference 2. Final version.pdf). 5th International Conference on Computing and Data Science (CONF-CDS 2023). **Accepted**.
 
